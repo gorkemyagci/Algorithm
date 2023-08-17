@@ -2,16 +2,14 @@
 
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
-Çözüm:
 
-   7
-  / \
- 5   8
- / \   \
-1   3   9
-\   \
-  0   4
-       \
-        6
-         \
-          2
+root = 7.
+5, 7'nin solundadır.
+1, 5'in solundadır.
+8, 7'nin sağındadır.
+3, 5'in sağındadır.
+6, 3'ün sağındadır.
+0, 1'in solundadır.
+9, 8'in sağındadır.
+4, 3'ün sağındadır.
+2, 1'in sağındadır.
